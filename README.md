@@ -1,5 +1,5 @@
 # Image Resizer In Python
-> Using Libraries:
+### Using Libraries:
 1. Numpy
 2. Pandas
 3. PIL
