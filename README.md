@@ -1,4 +1,4 @@
-# Image Resizer In Python
+# Image Resizer In Python 
 ### Using Libraries:
 1. Numpy
 2. Pandas
